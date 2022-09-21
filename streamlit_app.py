@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 Dog_breeds')
+st.title('🎈 ')
 
 st.write('จำนวนสายพันธุ์')
