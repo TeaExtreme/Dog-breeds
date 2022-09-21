@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Dog_breeds')
 
-st.write('Hello world!')
+st.write('จำนวนสายพันธุ์')
